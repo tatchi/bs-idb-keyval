@@ -1,6 +1,7 @@
 {
   "name": "bs-idb-keyval",
   "version": "0.1.0",
+  "bsc-flags": ["-bs-super-errors"],
   "sources": [
     {
       "dir": "src",
@@ -11,11 +12,7 @@
       "type": "dev"
     }
   ],
-  "package-specs": {
-    "module": "commonjs",
-    "in-source": true
-  },
-  "suffix": ".bs.js",
+
   "bs-dependencies": [],
   "bs-dev-dependencies": ["@glennsl/bs-jest"],
   "warnings": {

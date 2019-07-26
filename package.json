@@ -1,8 +1,9 @@
 {
   "name": "bs-idb-keyval",
   "version": "0.1.0",
+  "main": "lib/js/src/IdbKeyVal.js",
   "files": [
-    "src/IdbKeyVal.re",
+    "src/",
     "bsconfig.json"
   ],
   "scripts": {
