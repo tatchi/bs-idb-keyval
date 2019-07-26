@@ -1,0 +1,26 @@
+{
+  "name": "bs-idb-keyval",
+  "version": "0.1.0",
+  "files": [
+    "src/IdbKeyVal.re",
+    "bsconfig.json"
+  ],
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
+  },
+  "keywords": [
+    "BuckleScript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@glennsl/bs-jest": "^0.4.8",
+    "bs-platform": "^5.0.6",
+    "jest": "^24.8.0"
+  },
+  "peerDependencies": {
+    "idb-keyval": "^3.2.0"
+  }
+}
