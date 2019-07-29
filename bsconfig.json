@@ -4,7 +4,7 @@
   "bsc-flags": ["-bs-super-errors"],
   "sources": [
     {
-      "dir": "src",
+      "dir": "src"
     },
     {
       "dir": "__tests__",
