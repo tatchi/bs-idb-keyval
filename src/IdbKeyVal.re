@@ -1,7 +1,6 @@
 type t;
 [@bs.new] [@bs.module "idb-keyval"]
 external createStore: (string, string) => t = "Store";
-
 [@bs.module "idb-keyval"]
 external set: (string, string, t) => Js.Promise.t(unit) = "set";
 [@bs.module "idb-keyval"]
