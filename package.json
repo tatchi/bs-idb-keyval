@@ -1,6 +1,7 @@
 {
   "name": "bs-idb-keyval",
   "version": "0.1.0",
+  "description": "BuckleScript bindings for idb-keyval",
   "main": "lib/js/src/IdbKeyVal.js",
   "files": [
     "src/",
