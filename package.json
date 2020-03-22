@@ -20,6 +20,7 @@
     "bucklescript",
     "idb-keyval",
     "idb",
+    "indexeddb",
     "localstorage",
     "storage"
   ],
