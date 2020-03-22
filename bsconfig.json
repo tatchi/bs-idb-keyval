@@ -5,15 +5,10 @@
   "sources": [
     {
       "dir": "src"
-    },
-    {
-      "dir": "__tests__",
-      "type": "dev"
     }
   ],
-
   "bs-dependencies": [],
-  "bs-dev-dependencies": ["@glennsl/bs-jest"],
+  "bs-dev-dependencies": [],
   "warnings": {
     "error": "+101"
   },
