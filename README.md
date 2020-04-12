@@ -5,14 +5,14 @@
 ## Installation
 
 ```sh
-npm install --save-dev bs-idb-keyval
+npm install --save @tatchi/bs-idb-keyval
 ```
 
-Then add `bs-idb-keyval` to `bs-dev-dependencies` in your `bsconfig.json`:
+Then add `@tatchi/bs-idb-keyval` to `bs-dependencies` in your `bsconfig.json`:
 ```js
 {
   ...
-  "bs-dev-dependencies": ["bs-idb-keyval"]
+  "bs-dependencies": ["@tatchi/bs-idb-keyval"]
 }
 ```
 
