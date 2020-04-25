@@ -1,6 +1,6 @@
 {
   "name": "@tatchi/bs-idb-keyval",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "bsc-flags": ["-bs-super-errors"],
   "sources": [
     {
